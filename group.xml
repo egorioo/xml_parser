@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!DOCTYPE group SYSTEM "group.dtd">
+<group>
+    <student firstname="john" groupnumber="1" lastname="smith">
+        <subject mark="5" title="math"/>
+        <subject mark="4" title="english"/>
+        <subject mark="2" title="java"/>
+        <average>0</average>
+    </student>
+    <student firstname="rio" groupnumber="2" lastname="harris">
+        <subject mark="4" title="math"/>
+        <average>0</average>
+    </student>
+</group>
